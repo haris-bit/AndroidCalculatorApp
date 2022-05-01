@@ -2,6 +2,8 @@
 
 Android Calculator Application built using the Android Studio.
 
+![Simple Android Calculator](/images/CalculatorImage.png "Calculator Image")
+
 ## Description
 
 A calculator which performs basic operations like, addition, subtraction, multiplication, and division. 
@@ -35,14 +37,13 @@ Please create a new issue for this repo if there exists an issues.
 
 Contributors names and contact info:
 
-ex. Haris Iftikhar  
-ex. [@HarisIftikhar_](https://twitter.com/harisiftikhar_)
+ex. [Haris Iftikhar](https://twitter.com/harisiftikhar_)
 
 ## Version History
 
 * 0.2
     * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * See [commit change](github.com/haris-bit/AndroidCalculatorApp/commits/main) or See [release history](https://github.com/haris-bit/AndroidCalculatorApp/releases)
 * 0.1
     * Initial Release
 
